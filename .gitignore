@@ -1,0 +1,18 @@
+# local config with bot token (copy from tg.local.example.json)
+tg.local.json
+
+# runtime data: logs, state, pid, stop flag
+data/
+*.log
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

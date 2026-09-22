@@ -1,0 +1,9 @@
+{
+  "bot_token": "<bot token from @BotFather>",
+  "allowed_user_ids": [],
+  "workspace": null,
+  "kimi_bin": null,
+  "proxy": null,
+  "perm_timeout_sec": 300,
+  "net_retry_sec": 180
+}
